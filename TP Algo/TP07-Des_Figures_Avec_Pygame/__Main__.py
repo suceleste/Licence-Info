@@ -5,7 +5,7 @@ def main() :
     pygame.init()
 
     SCREEN = pygame.display.set_mode((1200, 600))
-    pygame.display.set_caption("TP9 - Pygame")
+    pygame.display.set_caption("TP7 - Des Figures Avec Pygame")
     Clock = pygame.time.Clock ()
 
     run = True
